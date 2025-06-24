@@ -20,9 +20,9 @@ I'm a passionate front-end developer who loves building clean, responsive, and i
 ---
 
 ### 🚀 Current Activities
-- 🌐 Exploring **Next.js App Router**
-- 🧭 Building a **Tourism Website**
-- ⚡ Learning performance optimization and SEO for modern apps
+- 🌐 Exploring **Node js Mongodb React Router**
+- 🧭 Building a **Social Development Events Platform Website**
+- ⚡ Learning performance optimization .
 
 ---
 
@@ -36,9 +36,9 @@ I'm a passionate front-end developer who loves building clean, responsive, and i
 
 ### 🔗 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/dilrubasarker" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dilrubasarkerseo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dilrubasarker" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dilruba-sarker-036011210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="dilrubasarkerseo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/dilrub-asarker" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
