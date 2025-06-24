@@ -43,42 +43,23 @@ I'm a passionate front-end developer who loves building clean, responsive, and i
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilrubasarker" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilrubasarker&layout=compact&theme=default" />
-</p>
-
----
-
-### 📌 Pinned Repositories
-
-#### 📍 **Tourism Website**
-- 🌍 A web app to discover tourist destinations in Bangladesh  
-- 🔗 [Live Site](https://your-live-link.com)  
-- 🧑‍💻 **Tech Stack:** React, Tailwind CSS, Firebase  
-- 📂 [GitHub Repo](https://github.com/dilrubasarker/tourism-site)
-
-#### 📍 **Parcel Delivery System**
-- 📦 Send parcels with pickup & delivery locations and cost calculation  
-- 🔗 [Live Site](https://your-live-link.com)  
-- 🧑‍💻 **Tech Stack:** React, Express.js, MongoDB  
-- 📂 [GitHub Repo](https://github.com/dilrubasarker/parcel-delivery)
-
-#### 📍 **Portfolio Website**
-- 💼 Showcases my personal projects, skills, and contact details  
-- 🔗 [Live Site](https://your-live-link.com)  
-- 🧑‍💻 **Tech Stack:** Next.js, Tailwind CSS, Framer Motion  
-- 📂 [GitHub Repo](https://github.com/dilrubasarker/portfolio)
-
----
+ 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dilruba-sarker)  
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dilruba-sarker)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilruba-sarker)](https://github.com/anuraghazra/github-readme-stats)
 
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dilruba-sarker&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/dilruba-sarker/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/dilruba-sarker)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=dilruba-sarker)  
+
+------------------
