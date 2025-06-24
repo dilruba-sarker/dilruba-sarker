@@ -61,5 +61,7 @@ I'm a passionate front-end developer who loves building clean, responsive, and i
 ![GitHub metrics](https://metrics.lecoq.io/dilrubasarker)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=dilrubasarker)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=dilrubasarker&theme=default)
+
 
 ------------------
