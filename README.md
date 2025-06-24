@@ -58,8 +58,8 @@ I'm a passionate front-end developer who loves building clean, responsive, and i
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/dilruba-sarker/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/dilruba-sarker)  
+![GitHub metrics](https://metrics.lecoq.io/dilrubasarker)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=dilruba-sarker)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=dilrubasarker)  
 
 ------------------
