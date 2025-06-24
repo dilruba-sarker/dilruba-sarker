@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/nqjcbmHQ/Your-paragraph-text.png" alt="Dilruba Sarker - Frontend Developer" />
+  <img src="https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/512778595_122149139156398536_7916525059398948046_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=jWRASyhGD7oQ7kNvwGJlOob&_nc_oc=AdnH7DUw99WewlAqUUVYQW0sBTbh9_3-trjY3xcpnoG8_-m6xqSegN_04a41CuE1MIQ&_nc_zt=23&_nc_ht=scontent.fdac110-1.fna&_nc_gid=ddVW99h_gCAf2akini4JUQ&oh=00_AfO0V9MV63962-OP1D437mSao9v2J9g_MNRnx_N9x-4sWA&oe=6860CA54" alt="Dilruba Sarker - Frontend Developer" />
 </p>
 
 <h1 align="center">Hi, I'm Dilruba Sarker 👩‍💻</h1>
