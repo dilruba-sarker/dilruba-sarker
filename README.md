@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
- (https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/512778595_122149139156398536_7916525059398948046_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=7K0dJDLY3N0Q7kNvwHY3DdA&_nc_oc=AdmsTS5JzvduzCmwXNBWZqS-_79KbALFzJ0iqQlN8SKGDF37YRVjMcq5hWyX7BvJVqw&_nc_zt=23&_nc_ht=scontent.fdac110-1.fna&_nc_gid=_Qa6hWyMBDGLkfobIuVFHg&oh=00_AfVwZJqMrS4iKVw2nwb9FwUIiZb1qVjwJcs3K3FAHj0yrA&oe=689ACC54)
+
+  <img src="https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/512778595_122149139156398536_7916525059398948046_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=7K0dJDLY3N0Q7kNvwHY3DdA&_nc_oc=AdmsTS5JzvduzCmwXNBWZqS-_79KbALFzJ0iqQlN8SKGDF37YRVjMcq5hWyX7BvJVqw&_nc_zt=23&_nc_ht=scontent.fdac110-1.fna&_nc_gid=_Qa6hWyMBDGLkfobIuVFHg&oh=00_AfVwZJqMrS4iKVw2nwb9FwUIiZb1qVjwJcs3K3FAHj0yrA&oe=689ACC54" />
+</p>
 
 <h1 align="center">Hi, I'm Dilruba Sarker 👩‍💻</h1>
 <h3 align="center">Front-End Developer | React & Next.js Enthusiast</h3>
