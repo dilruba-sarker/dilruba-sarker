@@ -16,12 +16,17 @@
 ---
 
 ### 👩‍💻 About Me
-I'm a passionate front-end developer who loves building clean, responsive, and interactive web applications. I specialize in crafting smooth user experiences using modern tools like React and Next.js.
+I’ve developed a strong passion for web development. I’m
+a Frontend Web Developer with solid skills in HTML, CSS, JavaScript, React, Node.js, and
+MongoDB. I’ve worked on several projects that focus on responsive design, user-friendly
+interfaces, and performance optimization.
+Currently, I’m learning Next.js to further improve my frontend development skills and stay
+updated with modern web technologies.
 
 ---
 
 ### 🚀 Current Activities
-- 🌐 Exploring **Node js Mongodb React Router**
+- 🌐 Exploring **I am exploring Next.js.**
 - 🧭 Building a **Social Development Events Platform Website**
 - ⚡ Learning performance optimization .
 
